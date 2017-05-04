@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+#container{
+    cursor: pointer;
+}
+
+#reload{
+    cursor: pointer;
+    bottom: -11px;
+    left: -7px;
+}
+
+#x{
+    cursor: pointer;
+}
+
+#btn_div{
+    width: 98px;
+    height: 20px;
+    top: 43px;
+    right: 78px;
+}
+
+#x_div{
+    width: 18px;
+    height: 18px;
+    right: 35px;
+    top: 5px;
+}
+
+#legal_div{
+    width: 86px;
+    height: 15px;
+    top: 136px;
+    left: 70px;
+}
+
